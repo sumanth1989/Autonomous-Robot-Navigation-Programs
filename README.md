@@ -5,4 +5,6 @@ Taks include wall following, GPS navigation, line following and path planning an
 
 A kinematic simulation of the robot has also been included. For this file to run please make sure you include the robot.mat file in the same directory as the kinematic_Simulation_Robot.mat file.
 
+A health monitor program for the robot is also included
+
 A video of the path planning alogrithm and its traversal has been included
